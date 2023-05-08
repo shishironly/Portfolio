@@ -1,2 +1,2 @@
 # Portfolio
-This is a personal portfolio project
+This is a personal portfolio repo
